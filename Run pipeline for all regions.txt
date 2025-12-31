@@ -1,0 +1,3 @@
+python scripts/02_run_pipeline_all_regions.py \
+  --nc data_raw/chirps_monthly.nc \
+  --out outputs_memory_ews

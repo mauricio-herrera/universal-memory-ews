@@ -1,0 +1,1 @@
+python scripts/01_download_chirps.py --out data_raw/chirps_monthly.nc

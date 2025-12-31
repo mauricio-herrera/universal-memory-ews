@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+title: "Universal memory index M(t), EWS, and drought-onset diagnostics from CHIRPS"
+message: "If you use this code, please cite the associated paper and this repository."
+authors:
+  - family-names: Herrera-Marín
+    given-names: Mauricio
+license: MIT

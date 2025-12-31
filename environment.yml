@@ -1,0 +1,12 @@
+name: universal-memory-ews
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - numpy
+  - pandas
+  - xarray
+  - matplotlib
+  - requests
+  - tqdm
+  - scipy

@@ -1,0 +1,3 @@
+python scripts/03_mediterranean_bootstrap_oos.py \
+  --nc data_raw/chirps_monthly.nc \
+  --out outputs_memory_ews

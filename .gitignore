@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.dist/
+.build/
+.venv/
+.conda/
+.ipynb_checkpoints/
+
+# Data / outputs (heavy, reproducible)
+data_raw/*.nc
+data_raw/*.netcdf
+outputs_memory_ews/
+figs/_tmp/
+*.npz
+
+# OS
+.DS_Store
